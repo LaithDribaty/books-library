@@ -52,7 +52,7 @@
             "@php artisan migrate",
             "@php artisan db:seed",
             "@php artisan storage:link",
-            "@php -r \"copy('./public/assets/images/default.png', './public/storage/deafult.png');\"",
+            "@php -r \"copy('./public/assets/images/default.png', './public/storage/default.png');\"",
             "@php artisan serve"
         ]
     },
